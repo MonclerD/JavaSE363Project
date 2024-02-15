@@ -1,2 +1,2 @@
-SE 363 Java Project
+SE 363 Java 
 
